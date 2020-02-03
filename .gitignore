@@ -1,0 +1,5 @@
+clean_data/
+groundTruth/
+MyoData/
+*.docx
+.ipynb_checkpoints/
